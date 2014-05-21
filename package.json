@@ -4,5 +4,8 @@
   "description": "Handlebars helper to create filesets",
   "repository": "https://github.com/75lb/handlebars-fileset",
   "main": "lib/handlebars-fileset.js",
-  "author": "Lloyd Brookes"
+  "author": "Lloyd Brookes",
+  "dependencies": {
+    "more-fs": "^0.3.1"
+  }
 }
