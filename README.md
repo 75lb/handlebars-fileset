@@ -20,11 +20,8 @@ handlebarsFileset(handlebars);
 ```
 
 ###Examples
-the template
 ```
-Filename: {{path-basename "parsnip.veg" ".veg"}}.txt
-```
-returns
-```
-Filename: parsnip.txt
+{{#each fileset("*.md").files}}
+filename: {{this}}
+{{/each}}
 ```
