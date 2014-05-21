@@ -1,0 +1,8 @@
+{
+  "name": "handlebars-fileset",
+  "version": "0.0.1",
+  "description": "Handlebars helper to create filesets",
+  "repository": "https://github.com/75lb/handlebars-fileset",
+  "main": "lib/handlebars-fileset.js",
+  "author": "Lloyd Brookes"
+}
