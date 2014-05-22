@@ -6,6 +6,7 @@
   "main": "lib/handlebars-fileset.js",
   "author": "Lloyd Brookes",
   "dependencies": {
-    "more-fs": "^0.3.1"
+    "more-fs": "~0.3.1",
+    "wodge": "~0.6.6"
   }
 }
