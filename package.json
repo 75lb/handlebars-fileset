@@ -1,6 +1,6 @@
 {
   "name": "handlebars-fileset",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Handlebars helper to create filesets",
   "repository": "https://github.com/75lb/handlebars-fileset",
   "main": "lib/handlebars-fileset.js",
