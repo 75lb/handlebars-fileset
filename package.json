@@ -6,7 +6,7 @@
   "main": "lib/handlebars-fileset.js",
   "author": "Lloyd Brookes",
   "dependencies": {
-    "array-ting": "^1.0.4",
+    "array-tools": "^1.0.4",
     "file-set": "^0.1.0"
   }
 }
