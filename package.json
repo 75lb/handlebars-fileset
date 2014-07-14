@@ -7,6 +7,6 @@
   "author": "Lloyd Brookes",
   "dependencies": {
     "array-tools": "^1.0.4",
-    "file-set": "^0.1.0"
+    "file-set": "^0.2.0"
   }
 }
